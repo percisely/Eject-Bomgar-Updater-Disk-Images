@@ -2,6 +2,7 @@
 ######
 ######
 ###### script to eject all Bomgar disk images
+###### see https://github.com/percisely/Eject-Bomgar-Updater-Disk-Images/ for more information
 #
 #
 #
